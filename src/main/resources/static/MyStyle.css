@@ -1,0 +1,79 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+
+}
+
+.headerType1{
+    margin-top: 10px;
+    background-color: cadetblue;
+    padding: 2px;
+    border-color: cadetblue;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+.middle{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+.lower{
+    position: absolute;
+    bottom: 0;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.socialMedia{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    width: 100vw;
+}
+
+
+.menu{
+
+}
+
+#facebook{
+
+}
+#instagram{
+
+}
+#linkedIn{
+
+
+}
+
+
+.body{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: lightblue;
+    background-image: url("rsz_pngwingcom.png");
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
